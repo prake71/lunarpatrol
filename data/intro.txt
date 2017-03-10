@@ -1,0 +1,22 @@
+
+Help Martin and Roger on their daily
+patrol around space station "Lunar 1".
+Never knowing what could happen today.
+Sometimes meteroids,
+sometimes space pirates,
+sometimes both.
+Due to limited resources on ammunition,
+oxygen and fuel, they have to take
+care how far they can go when in
+struggle.
+Avoid the worst case:
+A decision between
+the lesser of two evils:
+A colliding maneuver with an enemy
+or lost in space until all resources
+are exhausted.
+
+Cursor Keys = Navigate
+Space = Shoot
+
+Press Space To Continue

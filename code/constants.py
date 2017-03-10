@@ -1,0 +1,1 @@
+AMMO_STOCK_MAX = 50

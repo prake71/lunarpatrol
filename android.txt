@@ -1,0 +1,4 @@
+title=Lunar Patrol
+author=Peter Rake	
+api=1
+orientation=landscape
